@@ -1,6 +1,13 @@
 CyclneGRBLCtrl
 ==============
 
+![Pic](http://carlosgs.es/sites/default/files/Cyclone_first_year_12b_GRBLcontrollerBoard_bySamuelKranz.jpg)
+From design to manufactured pcb
+
+
+FAQ
+---
+
 Will your board be machinable on the cyclone ?
 - Hopefully yes.. smallest trace is 12mil. maybe double sided will be a bit tricky..
 
