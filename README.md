@@ -22,3 +22,7 @@ Is Z-Probing supported?
 
 How to get a PCB?
 - http://oshpark.com/shared_projects/NCN02WgN
+
+Licence
+---
+CC-BY-SA 4.0
